@@ -1,0 +1,15 @@
+/* PHASE 6: Sidebar */
+.content-sidebar .profile-picture{
+    display: block;
+    margin-top: -80px;
+    position: relative;
+}
+
+.profile-nav:nth-child(3){
+    text-decoration: underline;
+}
+.online{
+    position: absolute;
+    background-color: green;
+    rotate: 20px;
+}
